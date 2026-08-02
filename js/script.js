@@ -4,7 +4,7 @@ import { getFirestore, collection, addDoc, getDocs, query, orderBy, limit, serve
 import { getAuth, GoogleAuthProvider, signInWithPopup } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCd1i6V0OJvdKEMUAkam25h25rt_pGhm6g",
+  apiKey: "AIzaSyCdlI6V0OJvDkEMUAkam25h25rt_pGhm6g",
   authDomain: "sistema-op-marketing.firebaseapp.com",
   projectId: "sistema-op-marketing",
   storageBucket: "sistema-op-marketing.firebasestorage.app",
